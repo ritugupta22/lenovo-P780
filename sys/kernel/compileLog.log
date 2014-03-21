@@ -1,0 +1,1688 @@
+make: *** No rule to make target `2'.  Stop.
+  CHK     include/linux/version.h
+  CHK     include/generated/utsrelease.h
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/basic/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/basic/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/tools/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/tools/Makefile 
+"echo finish *******"
+make[1]: `include/generated/mach-types.h' is up to date.
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+"/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Makefile 
+"echo finish *******"
+  CALL    scripts/checksyscalls.sh
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/mod/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/mod/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Makefile 
+"echo finish *******"
+  CHK     include/generated/compile.h
+  CHK     include/linux/version.h
+  CHK     include/generated/utsrelease.h
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/basic/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/basic/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/tools/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/tools/Makefile 
+"echo finish *******"
+make[1]: `include/generated/mach-types.h' is up to date.
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+"/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/./Makefile 
+"echo finish *******"
+  CALL    scripts/checksyscalls.sh
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/mod/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/mod/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Makefile 
+"echo finish *******"
+  CHK     include/generated/compile.h
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/usr/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/usr/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/vfp/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/vfp/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/kernel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/kernel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/mm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/mm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/common/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/common/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/net/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/net/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/core/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/core/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/debug/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/debug/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/debug/kdb/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/debug/kdb/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/events/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/events/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/irq/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/irq/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/power/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/power/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/sched/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/sched/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/time/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/time/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/trace/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/kernel/trace/Makefile 
+"echo finish *******"
+  CHK     kernel/config_data.h
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/debugfs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/debugfs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/devpts/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/devpts/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+"/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/exofs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/exofs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/exofs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ext3/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ext3/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ext4/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ext4/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/fat/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/fat/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/fuse/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/fuse/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/isofs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/isofs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/jbd/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/jbd/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/jbd2/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/jbd2/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/nls/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/nls/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/dnotify/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/dnotify/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/fanotify/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/fanotify/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/inotify/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/notify/inotify/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/proc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/proc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/quota/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/quota/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ramfs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/ramfs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/sysfs/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/sysfs/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/yaffs2/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/fs/yaffs2/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/ipc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/ipc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/security/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/security/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/crypto/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/crypto/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/block/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/block/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/block/partitions/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/block/partitions/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/amba/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/amba/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/auxdisplay/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/auxdisplay/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/base/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/base/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/base/power/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/base/power/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/block/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/block/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/cdrom/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/cdrom/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/char/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/char/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/clk/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/clk/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/clocksource/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/clocksource/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/cpufreq/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/cpufreq/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/crypto/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/crypto/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/firewire/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/firewire/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/firmware/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/firmware/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpio/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpio/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/drm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/drm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/drm/i2c/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/drm/i2c/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/ion/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/ion/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/stub/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/stub/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/vga/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/gpu/vga/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hid/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hid/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hid/usbhid/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hid/usbhid/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hsi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hsi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hsi/clients/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/hsi/clients/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/algos/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/algos/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/busses/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/busses/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/muxes/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/i2c/muxes/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/idle/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/idle/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/ieee802154/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/ieee802154/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/keyboard/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/keyboard/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/misc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/misc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/mouse/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/mouse/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/touchscreen/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/touchscreen/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/serio/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/input/serio/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/iommu/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/iommu/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/leds/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/leds/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/lguest/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/lguest/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/macintosh/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/macintosh/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/md/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/md/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/common/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/common/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/common/tuners/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/common/tuners/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/rc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/rc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/rc/keymaps/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/rc/keymaps/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/video/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/video/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/video/davinci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/media/video/davinci/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mfd/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mfd/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/carma/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/carma/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/cb710/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/cb710/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/eeprom/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/eeprom/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/lis3lv02d/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/lis3lv02d/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/ti-st/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/misc/ti-st/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/card/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/card/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/core/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/core/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/host/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mmc/host/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/chips/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/chips/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/devices/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/devices/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/lpddr/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/lpddr/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/maps/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/maps/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/nand/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/nand/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/onenand/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/onenand/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/tests/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/mtd/tests/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/ppp/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/ppp/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/slip/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/slip/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/wireless/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/net/wireless/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/nfc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/nfc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/pinctrl/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/pinctrl/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/platform/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/platform/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/power/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/power/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/rtc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/rtc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/scsi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/scsi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/scsi/arm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/scsi/arm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/spi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/spi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/android/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/android/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/media/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/media/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/serial/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/staging/serial/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/switch/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/switch/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/thermal/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/thermal/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/ipwireless/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/ipwireless/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/serial/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/serial/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/vt/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/tty/vt/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/class/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/class/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/core/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/core/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/gadget/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/gadget/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/misc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/misc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/storage/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/usb/storage/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/backlight/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/backlight/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/logo/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/logo/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/omap2/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/omap2/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/omap2/displays/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/drivers/video/omap2/displays/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/arm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/arm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/atmel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/atmel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/core/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/core/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/core/oss/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/core/oss/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/mpu401/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/mpu401/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/opl3/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/opl3/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/opl4/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/opl4/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/pcsp/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/pcsp/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/vx/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/drivers/vx/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/firewire/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/firewire/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/i2c/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/i2c/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/i2c/other/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/i2c/other/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/ad1816a/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/ad1816a/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/ad1848/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/ad1848/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/cs423x/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/cs423x/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/es1688/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/es1688/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/galaxy/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/galaxy/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/gus/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/gus/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/msnd/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/msnd/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/opti9xx/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/opti9xx/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/sb/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/sb/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/wavefront/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/wavefront/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/wss/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/isa/wss/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/mips/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/mips/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/parisc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/parisc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ac97/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ac97/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ali5451/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ali5451/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/asihpi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/asihpi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/au88x0/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/au88x0/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/aw2/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/aw2/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ca0106/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ca0106/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/cs46xx/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/cs46xx/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/cs5535audio/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/cs5535audio/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ctxfi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ctxfi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/echoaudio/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/echoaudio/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/emu10k1/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/emu10k1/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/hda/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/hda/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ice1712/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ice1712/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/korg1212/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/korg1212/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/lola/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/lola/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/lx6464es/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/lx6464es/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/mixart/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/mixart/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/nm256/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/nm256/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/oxygen/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/oxygen/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/pcxhr/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/pcxhr/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/riptide/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/riptide/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/rme9652/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/rme9652/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/trident/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/trident/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/vx222/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/vx222/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ymfpci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pci/ymfpci/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/pdaudiocf/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/pdaudiocf/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/vx/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/pcmcia/vx/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/ppc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/ppc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/sh/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/sh/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/soc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/soc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/sparc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/sparc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/spi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/spi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/synth/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/synth/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/6fire/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/6fire/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/caiaq/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/caiaq/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/misc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/misc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/usx2y/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/sound/usb/usx2y/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/firmware/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/firmware/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/aed/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/aed/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/common/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/common/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/ipanic/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/aee/ipanic/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/bthid/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/bthid/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/ccci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/ccci/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/ccmni/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/ccmni/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/dual_ccci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/dual_ccci/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/emd_ctl/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/emd_ctl/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/fmradio/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/fmradio/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/gps/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/gps/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hdmitx/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hdmitx/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hwmon/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hwmon/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hwmon/hwmsen/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/hwmon/hwmsen/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/leds/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/leds/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/sched/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/sched/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/usb11/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/usb11/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/usb20/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/usb20/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/video/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/video/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/wdk/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/wdk/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/xlog/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/drivers/xlog/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/kernel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/kernel/kernel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/custom/out/lenovo89_wet_jb2/kernel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/custom/out/lenovo89_wet_jb2/kernel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/custom/out/lenovo89_wet_jb2/kernel/usb/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/custom/out/lenovo89_wet_jb2/kernel/usb/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/accdet/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/accdet/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/cpu_stress/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/cpu_stress/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/devapc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/devapc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/devinfo/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/devinfo/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dispsys/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dispsys/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dual_ccci/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dual_ccci/Makefile 
+"echo finish *******"
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/alg_aes_export.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/alg_aes_legacy.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/alg_aes_so.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/alg_sha1.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_aes.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_hdr.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_dev_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_mtd_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_usif_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_cfg_crypto.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_cfg_ver.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_signfmt_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_signfmt_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_signfmt_v2.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_signfmt_v3.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_cipherfmt_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_key_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_ops.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_boot_lib.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_secro.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_usbdl.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_dev.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_ccci.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_mtd.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_usif.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_fsutil_inter.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_boot_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/core/sec_mod_core.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/sec_lib.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/sec_uid.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/hacc_lib.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/hacc_hal.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/hacc_export.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/hacc_hk.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/mach/hacc_sk.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/rsa_lib.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/rsa_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/rsa_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/bgn_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/bgn_io.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/asf/crypto/bgn_util.o
+  LD [M]  mediatek/platform/mt6589/kernel/drivers/dual_ccci/ccci_plat.o
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dum-char/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/dum-char/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gdma/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gdma/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gpu/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gpu/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gpu/pvr/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/gpu/pvr/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/i2c/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/i2c/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/jpeg/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/jpeg/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/keypad/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/keypad/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/hotplug/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/hotplug/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/pmic/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/pmic/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/pmic_wrap/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/pmic_wrap/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/hal/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/hal/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/verify/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/ldvt/vdec/verify/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/m4u/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/m4u/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/masp/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/masp/Makefile 
+"echo finish *******"
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/rsa_lib.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/rsa_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/rsa_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/bgn_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/bgn_io.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/crypto/bgn_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/alg_aes_export.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/alg_aes_legacy.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/alg_aes_so.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/alg_sha1.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_aes.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_hdr.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_dev_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_mtd_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_usif_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_cfg_crypto.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_cfg_ver.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_signfmt_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_signfmt_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_signfmt_v2.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_signfmt_v3.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_cipherfmt_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_key_util.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_ops.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_boot_lib.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_secro.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_usbdl.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_dev.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_ccci.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_mtd.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_usif.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_fsutil_inter.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_boot_core.o
+  CC [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/core/sec_mod_core.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/sec_lib.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/sec_uid.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/hacc_lib.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/hacc_hal.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/hacc_export.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/hacc_hk.o
+  AS [M]  mediatek/platform/mt6589/kernel/drivers/masp/asf/mach/hacc_sk.o
+  LD [M]  mediatek/platform/mt6589/kernel/drivers/masp/sec.o
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/mmc-host/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/mmc-host/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/mt_etm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/mt_etm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/pmic_wrap/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/pmic_wrap/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/power/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/power/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/rtc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/rtc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/smi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/smi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/sound/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/sound/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/spi/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/spi/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/thermal/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/thermal/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/touchpanel/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/touchpanel/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/uart/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/uart/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/usb11/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/usb11/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/usb20/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/usb20/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/vibrator/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/vibrator/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/video/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/video/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/videocodec/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/videocodec/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/wdt/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/mediatek/platform/mt6589/kernel/drivers/wdt/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/oprofile/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/oprofile/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/802/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/802/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/8021q/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/8021q/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/bridge/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/bridge/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/core/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/core/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ethernet/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ethernet/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv4/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv4/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv4/netfilter/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv4/netfilter/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv6/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv6/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv6/netfilter/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/ipv6/netfilter/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/key/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/key/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/llc/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/llc/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/netfilter/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/netfilter/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/netlink/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/netlink/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/packet/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/packet/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/sched/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/sched/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/unix/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/unix/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/wireless/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/wireless/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/xfrm/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/net/xfrm/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/lib/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/arch/arm/lib/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/lzo/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/lzo/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/zlib_deflate/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/zlib_deflate/Makefile 
+"echo finish *******"
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/zlib_inflate/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/lib/zlib_inflate/Makefile 
+"echo finish *******"
+  GEN     .version
+"*********"
+"kbuild-dir ::: build-dir"
+"*********************************"
+",/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Kbuild,/home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/init/Makefile 
+"echo finish *******"
+  CHK     include/generated/compile.h
+  UPD     include/generated/compile.h
+  CC      init/version.o
+  LD      init/built-in.o
+  LD      .tmp_vmlinux1
+make: *** No rule to make target `2'.  Stop.

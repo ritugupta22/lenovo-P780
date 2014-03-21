@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_tgt.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/module-common.lds --build-id  -o drivers/scsi/scsi_tgt.ko drivers/scsi/scsi_tgt.o drivers/scsi/scsi_tgt.mod.o
