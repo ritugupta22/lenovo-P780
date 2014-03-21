@@ -1,0 +1,1 @@
+cmd_mediatek/custom/out/lenovo89_wet_jb2/kernel/usb/built-in.o :=  arm-linux-androideabi-ld.bfd -EL    -r -o mediatek/custom/out/lenovo89_wet_jb2/kernel/usb/built-in.o mediatek/custom/out/lenovo89_wet_jb2/kernel/usb/mtk_usb_custom.o 

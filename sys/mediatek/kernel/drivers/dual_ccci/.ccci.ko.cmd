@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/dual_ccci/ccci.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/dual_ccci/ccci.ko mediatek/kernel/drivers/dual_ccci/ccci.o mediatek/kernel/drivers/dual_ccci/ccci.mod.o

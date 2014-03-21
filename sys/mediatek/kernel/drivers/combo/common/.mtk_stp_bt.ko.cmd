@@ -1,0 +1,1 @@
+cmd_mediatek/kernel/drivers/combo/common/mtk_stp_bt.ko := arm-linux-androideabi-ld.bfd -EL -r  -T /home/ritu/Documents/lenovo_test/P780/P780_Open_Source_20131108/sys/kernel/scripts/module-common.lds --build-id  -o mediatek/kernel/drivers/combo/common/mtk_stp_bt.ko mediatek/kernel/drivers/combo/common/mtk_stp_bt.o mediatek/kernel/drivers/combo/common/mtk_stp_bt.mod.o
